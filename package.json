@@ -1,6 +1,6 @@
 {
   "name": "niimbot",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "dist/index.js",
   "license": "MIT",
   "author": "Jaroslav Khorishcnenko <jaro@husky-dev.me>",
